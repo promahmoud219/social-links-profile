@@ -1,8 +1,48 @@
-# Frontend Mentor - Social Links Profile Solution
+# Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-scvg3MC6MV).
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## 💡 Key Learnings & Architectural Decisions
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links) 
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [AI Collaboration](#ai-collaboration)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+it's a simple social profile card
+
+### The challenge
+
+Users should be able to:
+
+- See hover and focus states for all interactive elements on the page
+
+### Screenshot
+
+![](./screenshot.png)
+ 
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/promahmoud219/social-links-profile)
+- Live Site URL: [Add live site URL here](https://promahmoud219.github.io/social-links-profile/)
+
+### Built with
+
+- Semantic HTML5 markup 
+- Flexbox 
+- Mobile-first workflow
+ 
+### What I learned
 
 During the development and refactoring of this project, several important best practices, CSS concepts, and architectural decisions were applied:
 
@@ -25,3 +65,13 @@ During the development and refactoring of this project, several important best p
 
 ### 6. Accessibility (a11y) & Semantic HTML
 - Evaluated the semantic use of the `<nav>` tag: avoided redundant navigation landmarks if a global header or sidebar navigation already exists, keeping the accessibility tree clean and uncluttered for screen reader users.
+
+  
+
+### AI Collaboration
+
+- I used gemini and chatGPT
+
+## Author 
+- Frontend Mentor - [@promahmoud219](https://www.frontendmentor.io/profile/promahmoud219) 
+ 
