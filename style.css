@@ -5,13 +5,8 @@
     --Grey-700: hsl(0, 0%, 20%);
     --Grey-800: hsl(0, 0%, 12%);
     --Grey-900: hsl(0, 0%, 8%);
+  
 
-    --Prargraph-Font-Size: 14px;
-    --Font-Weight-400: 400;
-    --Font-Weight-600: 600;
-    --Font-Weight-700: 700;
-
-    
     --Preset1-Bold-Font-Size: 24px;
     --Preset1-Bold-Font-Weight: bold;
     
@@ -22,14 +17,11 @@
     --Preset2-Regular-Font-Weight: normal;
     
     
-    
     --Line-Height: 150%;
     --Letter-Spacing: 0px;
-
-
-
-
 }
+
+
 h1, p, ul, address{  
     padding: 0;
     margin: 0; 

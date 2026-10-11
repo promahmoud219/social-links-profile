@@ -9,15 +9,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links) 
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [What I learned](#what-i-learned) 
   - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Author](#author) 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
+ 
 ## Overview
 it's a simple social profile card
 
@@ -33,8 +29,8 @@ Users should be able to:
  
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/promahmoud219/social-links-profile)
-- Live Site URL: [Add live site URL here](https://promahmoud219.github.io/social-links-profile/)
+- Solution URL: (https://github.com/promahmoud219/social-links-profile)
+- Live Site URL: (https://promahmoud219.github.io/social-links-profile/)
 
 ### Built with
 
